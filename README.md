@@ -189,15 +189,6 @@ A conceptual game repository. Discontinued.
 An online IDE. Discontinued.
 
 ---
-
-## Priority Summary
-
-1. **Voidworks:** Continue developing the simulation game and its foundation.
-2. **Morrow:** Resume work after the hiatus and push toward completion.
-3. **Statecraft:** Continue development ahead of upcoming DLC support.
-4. **Backburner projects:** Resume only when there is a clear reason or renewed motivation.
-5. **Completed and discontinued repositories:** Leave stable, with only the explicitly listed maintenance or follow-up work.
-
 <p align="center">
 
 [![GitHub Profile](https://img.shields.io/badge/More_Projects-GitHub_Profile-6366F1?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a)](https://github.com/LeTrollologist)
