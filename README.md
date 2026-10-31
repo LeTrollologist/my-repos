@@ -56,17 +56,17 @@ These projects remain in development, but are currently inactive, paused, or wai
 
 A large project that is almost feature-complete. Work on the final stretch has been on hold.
 
+## Completed
+
+These projects are considered complete for now. Any remaining work is limited to the maintenance or specific follow-up noted below.
+
 ### [Inkwell](https://github.com/LeTrollologist/Inkwell)
 
 [![Repository](https://img.shields.io/badge/OPEN_REPOSITORY-Inkwell-38BDF8?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a)](https://github.com/LeTrollologist/Inkwell)
 ![Released](https://img.shields.io/badge/STATUS-v1.0.0_Released-06B6D4?style=for-the-badge&labelColor=0f172a)
 ![Maintenance](https://img.shields.io/badge/NEXT-QoL_&_Security-F59E0B?style=for-the-badge&labelColor=0f172a)
 
-Largely complete. Version `1.0.0` has been released. Future work is expected to focus on quality-of-life improvements and security updates. Taking a break after the release.
-
-## Completed
-
-These projects are considered complete for now. Any remaining work is limited to the maintenance or specific follow-up noted below.
+Complete. Version `0.3.0` has been released. Outside of critical bug fixes, development is halted for now.
 
 ### [Numa's Space](https://github.com/LeTrollologist/numa.github.io)
 
