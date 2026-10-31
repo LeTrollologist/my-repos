@@ -63,7 +63,7 @@ These projects are considered complete for now. Any remaining work is limited to
 ### [Inkwell](https://github.com/LeTrollologist/Inkwell)
 
 [![Repository](https://img.shields.io/badge/OPEN_REPOSITORY-Inkwell-38BDF8?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a)](https://github.com/LeTrollologist/Inkwell)
-![Released](https://img.shields.io/badge/STATUS-v1.0.0_Released-06B6D4?style=for-the-badge&labelColor=0f172a)
+![Released](https://img.shields.io/badge/STATUS-v0.3.0_Released-06B6D4?style=for-the-badge&labelColor=0f172a)
 ![Maintenance](https://img.shields.io/badge/NEXT-QoL_&_Security-F59E0B?style=for-the-badge&labelColor=0f172a)
 
 Complete. Version `0.3.0` has been released. Outside of critical bug fixes, development is halted for now.
