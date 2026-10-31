@@ -71,7 +71,7 @@ Complete. Version `0.3.0` has been released. Outside of critical bug fixes, deve
 ### [Numa's Space](https://github.com/LeTrollologist/numa.github.io)
 
 [![Repository](https://img.shields.io/badge/OPEN_REPOSITORY-Numa's_Space-38BDF8?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a)](https://github.com/LeTrollologist/numa.github.io)
-![Gift](https://img.shields.io/badge/STATUS-Neutral_Gift-06B6D4?style=for-the-badge&labelColor=0f172a)
+![Gift](https://img.shields.io/badge/STATUS-Gift-06B6D4?style=for-the-badge&labelColor=0f172a)
 
 Not a software project. It is a gift, and should be treated as such. No new features or updates are planned, only maintenance of existing features if needed.
 
